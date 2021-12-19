@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+  text-decoration: none;
+  color: #fff;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  min-width: 100vw;
+  background: rgba(238, 235, 235, 0.8);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+header {
+  min-width: 100vw;
+}
+
+.movieButton {
+  color: #fff;
+  border-radius: 10px;
+  font-size: 22px;
+  border: none;
+  padding: 0 40px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.movieButton.red {
+  background-color: tomato;
+}
+
+a.movieButton {
+  background: rgb(8, 155, 140);
+}
+
+a.movieButton:hover {
+  background: transparent;
+  color: rgb(8, 155, 140);
+  border: 3px solid rgb(8, 155, 140);
+}
+.movieButtons {
+  min-width: 400px;
   display: flex;
-  flex-direction: column;
+  justify-content: flex-end;
+  gap: 12px;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 2rem 0;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.movieButton.red:hover {
+  color: tomato;
+  background: transparent;
+  border: 3px solid tomato;
 }
