@@ -30,7 +30,7 @@ const Movie = styled.article`
 
   }
   img {
-    min-width: 100%;
+    max-width: 100%;
   }
   p {
     margin-top: 10px;
