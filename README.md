@@ -20,12 +20,12 @@ Recursos:
 
 ## Screenshots
 
-[!screenshot1]("https://github.com/rafaeltedesco/MovieReactApp/screenshots/screenshot1.png")
+[!screenshot1]("screenshots/screenshot1.png")
 
-[!screenshot2]("https://github.com/rafaeltedesco/MovieReactApp/screenshots/screenshot2.png")
+[!screenshot2]("screenshots/screenshot2.png")
 
-[!screenshot3]("https://github.com/rafaeltedesco/MovieReactApp/screenshots/screenshot3.png")
+[!screenshot3]("screenshots/screenshot3.png")
 
-[!screenshot4]("https://github.com/rafaeltedesco/MovieReactApp/screenshots/screenshot4.png")
+[!screenshot4]("screenshots/screenshot4.png")
 
-[!screenshot5]("https://github.com/rafaeltedesco/MovieReactApp/screenshots/screenshot5.png")
+[!screenshot5]("screenshots/screenshot5.png")
