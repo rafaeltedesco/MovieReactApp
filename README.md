@@ -20,12 +20,22 @@ Recursos:
 
 ## Screenshots
 
+# Home
+
 ![screenshot1](screenshots/screenshot1.png)
+
+# Detalhe
 
 ![screenshot2](screenshots/screenshot2.png)
 
+# Toast Adicionado aos Favoritos
+
 ![screenshot3](screenshots/screenshot3.png)
 
+# Toast já existente em Favoritos
+
 ![screenshot4](screenshots/screenshot4.png)
+
+# Lista de Favoritos
 
 ![screenshot5](screenshots/screenshot5.png)
